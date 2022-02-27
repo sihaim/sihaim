@@ -1,6 +1,5 @@
 - 👋 Bonjour, je suis Siham MIR. 
-- Ingénieure étudiante et passionnée de tout ce qui est inhérent à la valorisation des données, 
-- j'affine au cours de mes experiences mes compétences en machine learning et python. 
+- Ingénieure étudiante et passionnée de tout ce qui est inhérent à la valorisation des données, j'affine au cours de mes experiences mes compétences en machine learning et python. 
 
 
 <!---
